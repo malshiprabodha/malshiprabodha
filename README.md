@@ -50,9 +50,3 @@
 
 ###
 
-<h2 align="left">🚀 Public Projects:</h2>
-
-<p align="left">
-  <a href="https://github.com/malshiprabodha/Travel-Agency-Management-System-TAMS-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malshiprabodha&repo=Travel-Agency-Management-System-TAMS-&theme=radical" />
-  </a>
