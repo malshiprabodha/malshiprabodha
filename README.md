@@ -37,7 +37,8 @@
 <h2 align="left">My Stats🔥 :</h2>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=malshiprabodha&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=malshiprabodha&show_icons=true&theme=radical&count_private=true" alt="My Github Stats">
+
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malshiprabodha&layout=compact&theme=radical" alt="Top Languages">
 </p>
