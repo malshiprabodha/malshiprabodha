@@ -3,7 +3,6 @@
 ###
 <h2 align="left">Undergraduate | BSc (Hons) in Information Technology at BCI Campus | Focused on Machine Learning🤖✨</h2>
 
-
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 ### Programming Languages:
@@ -28,7 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 
-
 ###
 
 <h2 align="left">My Stats🔥 :</h2>
@@ -41,9 +39,6 @@
 </p>
 
 <br><br><br><br><br><br><br><br><br>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malshiprabodha&theme=radical" alt="Current Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malshiprabodha&theme=radical" alt="GitHub Streak" />
 </p>
-
-###
