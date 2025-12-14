@@ -16,7 +16,6 @@
 
 ### Deep Learning & Multimodal AI:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Diffusers](https://img.shields.io/badge/Diffusers-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=white)
 ![CLIP](https://img.shields.io/badge/CLIP-202124?style=for-the-badge&logo=openai&logoColor=white)
