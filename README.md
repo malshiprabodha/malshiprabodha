@@ -1,9 +1,10 @@
-<h1 align="left">Hey, I'm Malshi👋 what's up?</h1>
+<h1 align="left">Hey, I'm Malshi👋 Welcome to my AI research lab!</h1>
 
 ###
-<h2 align="left">Undergraduate | Aspiring AI Researcher | Focused on Brain-Inspired Multimodal Systems 🤖</h2>
+<h2 align="left">Undergraduate | Aspiring AI Researcher | Focused on Brain-Inspired Multimodal AI 🤖 </h2>
 
- 🧠 Research Focus
+ 
+🧠 Research Focus
 
 I am passionate about **Multimodal AI inspired by cognitive principles**:  
 - Cross-modal representation learning (vision, language, audio)  
